@@ -22,5 +22,5 @@ To start ROS Reality, simply run the following command on your Baxter workstatio
 
 ``roslaunch ros_reality ros_reality_bridge.launch``
 
-Great, now this computer is sending information about the ROS network. Go to your Unity computer and follow the intstructions here: https://github.com/h2r/ROS_Unity
+Great, now this computer is sending information about the ROS network. Go to your Unity computer and follow the intstructions here: https://github.com/h2r/ROS_reality
 
